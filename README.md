@@ -13,7 +13,9 @@ Here is a sample `README.md` for your One Piece character guessing game, created
 
 ## デモ
 
-![ゲームスクリーンショット](path-to-your-screenshot.png)
+![ゲームスクリーンショット](/Typing-game-of-One-Piece/images/Typing-game-of-One-Piece-1.png)
+
+![ゲームスクリーンショット](/Typing-game-of-One-Piece/images/Typing-game-of-One-Piece-2.png)
 
 ## 機能
 
@@ -57,7 +59,7 @@ Here is a sample `README.md` for your One Piece character guessing game, created
 1. リポジトリをクローンします。
 
    ```bash
-   git clone https://github.com/your-username/onepiece-typing-game.git
+   git clone https://github.com/tetumemo/Typing-game-of-One-Piece.git
    cd onepiece-typing-game
    ```
 
@@ -93,7 +95,6 @@ Pull Requestを作成する前に、Issueを立てていただけると助かり
 ## ライセンス
 
 このプロジェクトはMITライセンスのもとで公開されています。詳細は `LICENSE` ファイルを参照してください。
-```
 
 ### ポイント
 
