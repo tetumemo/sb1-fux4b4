@@ -6,6 +6,8 @@ Here is a sample `README.md` for your One Piece character guessing game, created
 
 # ワンピーススタイピングゲーム
 
+このゲームはすべて「Bolt」を使い自然言語だけで作成しました。READMEはOpenAI o1に書かせています。
+
 ## 概要
 
 「ワンピーススタイピングゲーム」は、人気アニメ・マンガ「ワンピース」のキャラクター名を入力して遊ぶシンプルなタイピングゲームです。  
