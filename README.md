@@ -13,9 +13,9 @@ Here is a sample `README.md` for your One Piece character guessing game, created
 
 ## デモ
 
-![ゲームスクリーンショット](/Typing-game-of-One-Piece/images/Typing-game-of-One-Piece-1.png)
+![ゲームスクリーンショット](./images/Typing-game-of-One-Piece-1.png)
 
-![ゲームスクリーンショット](/Typing-game-of-One-Piece/images/Typing-game-of-One-Piece-2.png)
+![ゲームスクリーンショット](./images/Typing-game-of-One-Piece-2.png)
 
 ## 機能
 
